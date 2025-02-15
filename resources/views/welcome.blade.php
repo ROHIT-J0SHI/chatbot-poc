@@ -66,7 +66,7 @@
         }
 
         .botui-message.user .botui-message-content {
-            background-color: #dcf8c6;
+            background-color:rgb(228, 250, 211);
             color: #333;
             float: right; 
         }
